@@ -1,8 +1,38 @@
 {
   "1": {
-    "0x5dd88b3aa3143173eb26552923922bdf33f50949": {
-      "name": "Steakhouse/Coinshift Boosted",
-      "description": "This boosted pool's underlying mechanics are powered by wrapped Steakhouse and Coinshift tokens, which generate yield from lending activities on Morpho."
+    "0x236f8c0a61da474db21b693fb2ea7aab0c803894": {
+      "name": "Bedrock (uniBTC)",
+      "description": "deposit"
+    }
+  },
+  "4": {
+    "0x5ef2b8fbcc8aea2a9dbe2729f0acf33e073fa43e": {
+      "name": "Segment (seSOLVBTCBBN)",
+      "description": "deposit"
+    }
+  },
+  "5": {
+    "0x7848f0775eebabbf55cb74490ce6d3673e68773a": {
+      "name": "Segment (seUNIBTC)",
+      "description": "deposit"
+    }
+  },
+  "6": {
+    "0xd30288ea9873f376016a0250433b7ea375676077": {
+      "name": "Segment (tBTC)",
+      "description": "deposit"
+    }
+  },
+  "7": {
+    "0x6265c05158f672016b771d6fb7422823ed2cbcdd": {
+      "name": "Segment (wBTC)",
+      "description": "deposit"
+    }
+  },
+  "8": {
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
+      "name": "Solv (SolvBTC.BBN)",
+      "description": "deposit"
     }
   }
 }
